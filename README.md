@@ -1,1 +1,1 @@
-# .github
+# Profile for the NCOSD
